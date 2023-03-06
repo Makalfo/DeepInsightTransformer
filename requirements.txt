@@ -1,0 +1,11 @@
+sklearn
+pandas
+numpy
+torch
+pytorch_lightning
+opencv-python
+geffnet
+iterative-stratification
+load_dotenv
+torchmetrics
+seaborn
